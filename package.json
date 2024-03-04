@@ -1,0 +1,20 @@
+{
+  "name": "yrtytrytryrytea",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependents": {
+      "crypto-utility-xid": "^1.0.0"
+  },
+  "keywords": [
+      "crypto",
+      "currency",
+      "utility"
+  ],
+  "author": "yrtytrytryry",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/yrtytrytryry/yrtytrytryrytea.git"
+  }
+}
